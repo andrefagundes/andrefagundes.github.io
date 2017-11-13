@@ -42,6 +42,10 @@ front-end:
     level: 5
   - name: Angular
     level: 3
+  - name: React
+    level: 3
+  - name: React Native
+    level: 3
   - name: Bootstrap
     level: 5
   - name: Materialize CSS
