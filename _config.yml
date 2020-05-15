@@ -14,10 +14,10 @@ twitter: amfcom
 github: andrefagundes
 facebook: andremacielfagundes
 linkedin: andremfagundes
-bio: "Desenvolvedor Web desde meados 2006, apaixonado por jogos, música e atividade física.
+bio: "Desenvolvedor Web desde meados 2006, apaixonado por jogos, música.
       Formado em Ciências da Computação, focado nas melhores tecnologias do mundo atual para desenvolver aplicações seguras, intuitivas e de alta performance. 
       Conhecimento em várias linguagens de programação, vários frameworks de ponta e em configurações de servidores linux e nuvem para entrega de projetos robustos e com segurança. 
-      Trabalhando em vários órgãos do governo federal como Ministérios da Educação, Saúde, Ciência e Tecnologia."
+      Trabalhei em vários órgãos do governo federal como Ministérios da Educação, Saúde, Ciência e Tecnologia."
 
 # Skills
 #
@@ -33,9 +33,9 @@ bio: "Desenvolvedor Web desde meados 2006, apaixonado por jogos, música e ativi
 # If you don't want one of the sections below, leave the variable without any values teste
 front-end:
   - name: HTML 5
-    level: 4
+    level: 5
   - name: CSS 3
-    level: 4
+    level: 5
   - name: JavaScript
     level: 5
   - name: jQuery
@@ -48,8 +48,10 @@ front-end:
     level: 3
   - name: Bootstrap
     level: 5
+  - name: Vuejs
+    level: 4 
   - name: Materialize CSS
-    level: 3
+    level: 4
   - name: LESS
     level: 3
   - name: SASS
@@ -60,42 +62,41 @@ front-end:
     level: 3
   - name: Bower
     level: 3
-
+    
 back-end:
   - name: PHP
     level: 5
   - name: Node.js
-    level: 3
+    level: 5
   - name: Ruby
     level: 3
-  - name: Java
-    level: 2
-  - name: SQL
-    level: 4
 
 mobile:
   - name: Android
     level: 2
   - name: Apache Cordova
-    level: 4
+    level: 3
   - name: Ionic
-    level: 4
+    level: 3
   - name: NativeScript
     level: 3
+  - name: Flutter
+    level: 4
+
 
 db:
   - name: MySQL
-    level: 4
+    level: 5
   - name: PostgreSQL
-    level: 4
+    level: 5
   - name: MongoDB
-    level: 3
+    level: 4
   - name: SQL Server
     level: 2
   - name: Oracle
     level: 3
   - name: Firebase
-    level: 3
+    level: 4
   - name: NoSQL
     level: 4
 
@@ -124,16 +125,20 @@ methodologies:
     level: 3
 
 others:
-  - name: Web Services
+  - name: Zend
     level: 5
-  - name: REST
+  - name: PhalconPHP
     level: 5
   - name: Laravel
-    level: 3
+    level: 4
   - name: Ruby on Rails
     level: 3
   - name: MEAN Stack
     level: 4
+  - name: Web Services
+    level: 5
+  - name: REST
+    level: 5
 
 # Build settings
 
